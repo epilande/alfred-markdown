@@ -4,7 +4,8 @@
 
 <p align="center">
   <strong>Markdown text expander</strong></br>
-  <img src="./demo.gif" width="530">
+  <img src="./assets/demo1.png" width="530"></br>
+  <img src="./assets/demo2.png" width="530">
 </p>
 
 ## Installation
@@ -24,6 +25,10 @@
 - `( {text}` - Wrap selected text with `( )`.
 - `` ` {text}`` - Wrap selected text with `` ` ` ``.
 - `check {text}` - Prepends `- [x]` before selected text.
+
+## Demo
+
+<img src="./assets/demo.gif" width="600">
 
 ## More workflows
 
