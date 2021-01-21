@@ -1116,7 +1116,18 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>GitHub repo: https://github.com/epilande/alfred-markdown
+
+Commands:
+- url {text} - Set link for selected text.
+- img {text} - Set image link for selected text.
+- i {text} - Set selected text to italics.
+- b {text} - Set selected text to bold.
+- { {text} - Wrap selected text with { }.
+- [ {text} - Wrap selected text with [ ].
+- ( {text} - Wrap selected text with ( ).
+- ` {text} - Wrap selected text with ` `.
+- check {text} - Prepends - [x] before selected text.</string>
 	<key>uidata</key>
 	<dict>
 		<key>04950FA3-A3C0-46D6-87EA-1AE5E98348B4</key>
@@ -1360,6 +1371,6 @@
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/epilande/alfred-markdown</string>
 </dict>
 </plist>
