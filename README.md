@@ -16,6 +16,10 @@
 
 ## Usage
 
+I recommend setting up hotkeys to trigger this workflow on selected text.
+
+### Commands
+
 - `url {text}` - Set link for selected text.
 - `img {text}` - Set image link for selected text.
 - `i {text}` - Set selected text to italics.
@@ -26,9 +30,13 @@
 - `` ` {text}`` - Wrap selected text with `` ` ` ``.
 - `check {text}` - Prepends `- [x]` before selected text.
 
+Another option is to set up a separate hotkey to show Alfred with the currently selected text and place the cursor to the left; ready to type the commands above.
+
+<img src="./assets/hotkey.png" alt="alfred hotkey" width="600">
+
 ## Demo
 
-<img src="./assets/demo.gif" width="600">
+<img src="./assets/demo.gif" alt="demo" width="600">
 
 ## More workflows
 
